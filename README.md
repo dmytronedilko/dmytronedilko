@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dmytronedilko
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning algorithms and data structures
